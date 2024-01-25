@@ -26,3 +26,7 @@ Esta es una SPA con un formulario dinámico en múltiples pasos que recoge la in
 ![Vista móvil 04](/assets/git/mobile-view_04.png "Mobile step 04")
 ![Vista móvil 05](/assets/git/mobile-view_05.png "Mobile step 05")
 ![Vista móvil 06](/assets/git/mobile-view_06.png "Mobile step 06")
+
+---
+
+&copy; 2024 Todos los derechos reservados para [Quantlas.tech](https://quantlas.tech)
